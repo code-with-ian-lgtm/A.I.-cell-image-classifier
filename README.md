@@ -18,7 +18,7 @@ Installation
 Clone the repository:
 
 
-git clone https://github.com/your-username/malaria-cell-classifier.git
+git clone [https://github.com/your-username/malaria-cell-classifier.git](https://github.com/code-with-ian-lgtm/A.I.-cell-image-classifier.git)
 cd malaria-cell-classifier
 Set up a virtual environment (optional but recommended):
 
